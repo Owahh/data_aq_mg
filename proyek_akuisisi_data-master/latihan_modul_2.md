@@ -1,0 +1,6 @@
+# Soal
+## Tulis paragraf 150-200 kata yang menjelaskan mengapa reproducibility penting dalam akuisisi data, sertakan satu contoh kasus nyata.
+
+
+## Jawaban
+Menurut saya, reproducibility dalam akuisisi data merupakan hal yang penting karena dapat membantu memastikan bahwa proses pengumpulan data bisa dilakukan kembali dengan cara yang sama dan menghasilkan data yang relatif konsisten. Sebagai mahasiswa, saya melihat bahwa data tidak hanya harus tersedia, tetapi juga harus dapat dipercaya dan diperiksa kembali apabila terjadi kesalahan. Dengan adanya reproducibility, peneliti atau orang lain yang menggunakan data tersebut dapat memahami bagaimana data diperoleh, alat apa yang digunakan, serta langkah-langkah apa saja yang dilakukan selama proses pengumpulan. Hal ini juga dapat mengurangi kemungkinan terjadinya kesalahan atau manipulasi data. Salah satu contoh nyatanya adalah penelitian di bidang kesehatan, misalnya pengujian efektivitas suatu obat. Jika metode pengambilan dan pengukuran data tidak dapat diulang dengan prosedur yang sama, maka hasil penelitian akan sulit dipercaya atau dibandingkan dengan penelitian lain. Menurut saya, reproducibility membuat proses penelitian menjadi lebih transparan dan memberikan keyakinan bahwa kesimpulan yang diambil memang berdasarkan data yang dapat dipertanggungjawabkan.
